@@ -57,10 +57,11 @@ body {
 }
 
 a {
-  color: #d5000d;
+  font-weight: bold;
+  color: #46C44F;
 }
 a:hover {
-  color: #c5000c;
+  color: #4CAD52;
 }
 
 header {
